@@ -66,9 +66,13 @@ The dashboard has two pages.
 
 Shows the overall transaction volume and value, transaction status, and failure rates by payment method and device.
 
+![Transaction Overview](Pg1.png)
+
 ### Page 2 — Failure Analysis
 
 Focuses specifically on failed transactions and compares the value of failed transactions across payment methods.
+
+![Failure Analysis](Pg2.png)
 
 ## What I Practiced
 
